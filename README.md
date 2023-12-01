@@ -23,4 +23,4 @@ A collection of projects I worked on that I'm proud of.
   - The first video game I ever made from scratch on a team. Programmed in Java over about a month in my second year of high school, this game contains exactly zero lines of readable code and thousands of lines of gourmet italian pasta dinner. God turns a blind eye to its inner machinations.
 
 # Bridge
-  - The blueprint & pictures of a bridge I made in senior year of high school. It was so sturdy, it was able to withstand somewhere over 15 pounds of load. (The piezoelectric sensor maxed out at 15, but we just kept adding weight until the bridge broke.)
+  - The blueprint of a bridge I made in senior year of high school. It was so sturdy, it was able to withstand somewhere over 15 pounds of load. (The piezoelectric sensor maxed out at 15, but we just kept adding weight until the bridge broke.)

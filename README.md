@@ -11,3 +11,9 @@ A collection of projects I worked on that I'm proud of.
           - Pa6: 1984-style language filter using hash tables and bloom filters
       - CSE101 ( C++ ):
           - PA8: Red-Black tree powered Dictionary to tokenize and read a text file.
+
+# CMPM 176 Game Systems Final Project - "Ocean's Heist"
+  - A class in which systemic game design was heavily emphasized; it culminated in the creation of this card game over one month with a team, based on the prompt: "Adapt a TV series, film, play, manga, etc. to a systems-focused board (or card) game."
+  - The game was playtested over five times with different groups, rebalanced many times, and ended up being an experience of "we should have gotten physical cards sooner"
+    
+    
